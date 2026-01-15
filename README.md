@@ -2,6 +2,10 @@
 This project demonstrates a ROS-based pick-and-stack robotic system using the Kinova Mico 2 robotic arm, where high-level task planning is handled using a Claude Large Language Model (LLM).  The robot autonomously performs pick and stacking operations using natural-language, ros-mcp-server and executing them through a ROS control pipeline.
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e81f9fd3-3f54-4f9f-b66c-5493b3eca841" />
+
+
+
 Project Overview:
 The Kinova Mico 2 robot performs sequential pick and stack operations
 A Claude LLM is used for:
